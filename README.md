@@ -6,7 +6,7 @@ A Streamlit web application for enumerating, visualizing, and calculating energi
 
 This application provides a powerful tool for chemists and computational researchers to explore tautomeric forms of molecules. It uses RDKit's tautomer enumeration functionality, enhanced with custom processing to ensure chemically reasonable structures and reliable energy calculations.
 
-![Tautomer Enumerator Screenshot](https://github.com/agiani99/tautomer-enumerator/blob/main/Screenshot_tautomer.png)
+![Tautomer Enumerator Screenshot](https://github.com/agiani99/tautomer-app/blob/main/Screenshot_tautomer.png)
 
 ## Features
 
